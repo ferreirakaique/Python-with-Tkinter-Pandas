@@ -1,22 +1,22 @@
-﻿ID;Aluno;Idade;Curso;Nota final;
-1;Kaique;18;Odontologia;10;
-2;Maria;20;Veterinária;5;
-3;Alice;54;Mecatrônica;6;
-4;Bob;23;Biologia;7;
-5;Marcio;34;Ortopedista;8;
-6;Leandro;25;Fisíoterapia;9;
-7;Felipe;22;Educação Física;10;
-8;Joao;28;Ciência da computação;9;
-9;Pedro;27;Engenharia de software;10;
-10;Oseias;43;Enfermagem;10;
-11;Irineu;30;Mecânico;4;
-12;Mateus;19;Administração;5;
-13;Lucas;40;ADS;7;
-14;Bartolomeu;35;ADS;9;
-15;Cassio;33;ADS;9;
-16;Barbosa;46;ADS;6;
-17;Ferreira;29;ADS;5;
-18;Rogerio;20;ADS;8;
-19;Ceni;22;ADS;9;
-20;Tele;33;ADS;10;
-21;Santana;23;ADS;10;
+﻿ID,Aluno,Idade,Curso,Nota final,
+1,Kaique,18,Odontologia,10,
+2,Maria,20,Veterinária,5,
+3,Alice,54,Mecatrônica,6,
+4,Bob,23,Biologia,7,
+5,Marcio,34,Ortopedista,8,
+6,Leandro,25,Fisíoterapia,9,
+7,Felipe,22,Educação Física,10,
+8,Joao,28,Ciência da computação,9,
+9,Pedro,27,Engenharia de software,10,
+10,Oseias,43,Enfermagem,10,
+11,Irineu,30,Mecânico,4,
+12,Mateus,19,Administração,5,
+13,Lucas,40,ADS,7,
+14,Bartolomeu,35,ADS,9,
+15,Cassio,33,ADS,9,
+16,Barbosa,46,ADS,6,
+17,Ferreira,29,ADS,5,
+18,Rogerio,20,ADS,8,
+19,Ceni,22,ADS,9,
+20,Tele,33,ADS,10,
+21,Santana,23,ADS,10,
